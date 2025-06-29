@@ -38,7 +38,7 @@ Berikut adalah rangkuman beberapa analisis utama dalam proyek ini:
 5. **Analisis Produk Populer**
    - Menentukan produk atau merek dengan transaksi tertinggi, seperti Apple, Samsung, Sony, Huawei, dan Lenovo.
 
-## 💻 Teknologi
+## 💻 Tools
 
 - PostgreSQL (untuk penulisan query)
 - Python (opsional untuk visualisasi/analisis lanjutan)
